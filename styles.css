@@ -912,3 +912,20 @@ body .box-input label small{
 
 
 }
+#logo img{
+    border-radius: 50%;
+
+}
+#cont{
+   display: inline-flex;
+  
+
+}
+#wpp{
+  margin-right: 100px
+
+}
+#dados{
+  margin-top: 20px;
+  margin-left: 70px;
+}
