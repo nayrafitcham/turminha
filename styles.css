@@ -918,14 +918,23 @@ body .box-input label small{
 }
 #cont{
    display: inline-flex;
-  
-
+   
 }
 #wpp{
-  margin-right: 100px
-
+  width:100%; 
+  height:100%;
+  text-align: right;
+  vertical-align: center;
+  margin-top: 30px;
 }
 #dados{
   margin-top: 20px;
-  margin-left: 70px;
+  margin-left: 80px;
+  width: 100%;
+  height: 100%;
+
+}
+#ex{
+  width: 100%;
+  height: 100%;
 }
